@@ -1,0 +1,7 @@
+{
+    "watch tv": "Explanation: I would go to the living room and find the tv. Then I would find the tv remote and turn on the tv.\n\nPlan: 1. walk to living room 2. find tv 3. find tv remote 4. turn on tv 5. Done",
+    "put apple in fridge": "1. Go to the kitchen.\n2. Find the fridge.\n3. Open the fridge.\n4. Find the apple.\n5. Put the apple in the fridge.\n6. Close the fridge.\n7. Done.",
+    "turn on light": "Explanation: I would go to the living room and find the light switch. Then I would turn on the light switch.\n\nPlan: 1. walk to living room 2. find light switch 3. turn on light switch 4. Done",
+    "brush teeth": "Explanation: I would go to the bathroom and find a toothbrush and toothpaste. Then I would put toothpaste on the toothbrush and brush my teeth.\n\nPlan: 1. walk to bathroom 2. find toothbrush 3. grab toothbrush 4. find toothpaste 5. put toothpaste on toothbrush 6. brush teeth 7. Done",
+    "throw away apple": "Explanation: I would go to the kitchen and find the garbage can. Then I would grab the apple and put it in the garbage can.\n\nPlan: 1. walk to kitchen 2. find garbage can 3. grab apple 4. put apple in garbage can 5. Done"
+}

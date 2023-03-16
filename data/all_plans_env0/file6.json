@@ -1,0 +1,7 @@
+{
+    "put my slippers near the bed": "Explanation: I would go to my bedroom and find my slippers. Then I would walk to the bed and put my slippers next to the bed.\nPlan: 1. walk to bedroom 2. find slippers 3. grab slippers 4. walk to bed 5. put slippers next to bed 6. Done",
+    "take out the trash": "Explanation: I would go to the kitchen and find the garbage can. I would then pick up the garbage can and walk to the door. I would open the door and walk outside. I would then put the garbage can down and walk back inside.\n\nPlan: 1. walk to kitchen 2. find garbage can 3. pick up garbage can 4. walk to door 5. open door 6. walk outside 7. put garbage can down 8. walk back inside 9. Done",
+    "open the curtains": "1. walk to the curtains \n2. find the cord \n3. grab the cord \n4. pull the cord",
+    "wash the frying pan": "Explanation: I would go to the kitchen and find the frying pan. Then I would go to the sink and turn on the water. I would put the frying pan under the water and add dishwashing liquid. I would scrub the frying pan and then rinse it off. I would dry the frying pan with a towel.\nPlan: 1. walk to kitchen 2. find frying pan 3. grab frying pan 4. find sink 5. turn on water 6. put frying pan under water 7. add dishwashing liquid 8. scrub frying pan 9. rinse frying pan 10. dry frying pan 11. grab towel 12. Done",
+    "bring my book to the sofa": "1. Find the book.\n2. Pick up the book.\n3. Walk to the sofa.\n4. Put the book down on the sofa.\n5. Done."
+}
